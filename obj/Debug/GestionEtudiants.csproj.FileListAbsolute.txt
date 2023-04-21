@@ -1,0 +1,7 @@
+C:\Users\Ayoub\source\repos\GestionEtudiants\GestionEtudiants\bin\Debug\GestionEtudiants.exe.config
+C:\Users\Ayoub\source\repos\GestionEtudiants\GestionEtudiants\bin\Debug\GestionEtudiants.exe
+C:\Users\Ayoub\source\repos\GestionEtudiants\GestionEtudiants\bin\Debug\GestionEtudiants.pdb
+C:\Users\Ayoub\source\repos\GestionEtudiants\GestionEtudiants\obj\Debug\GestionEtudiants.csprojAssemblyReference.cache
+C:\Users\Ayoub\source\repos\GestionEtudiants\GestionEtudiants\obj\Debug\GestionEtudiants.csproj.CoreCompileInputs.cache
+C:\Users\Ayoub\source\repos\GestionEtudiants\GestionEtudiants\obj\Debug\GestionEtudiants.exe
+C:\Users\Ayoub\source\repos\GestionEtudiants\GestionEtudiants\obj\Debug\GestionEtudiants.pdb
